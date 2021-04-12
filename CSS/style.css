@@ -484,7 +484,7 @@ img {
   width: 100%;
   height: 4px;
   border-radius: 2px;
-  background-color: var(--focus-hover);
+  background-color: currentColor;
 }
 /* Футер */
 .footer {
